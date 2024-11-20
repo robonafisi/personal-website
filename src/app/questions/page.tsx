@@ -12,7 +12,7 @@ export default function Questions() {
             <h1 className="text-3xl text-center mb-8">Big Questions I Keep Wondering About</h1>
             <ul className="list-disc pl-6 space-y-2 mx-48">
               <li>The holy trinity of wonders: Light/Time, Matter, and Consciousness. What is the nature of light? Why does it travel fastest than anything we know? </li>
-              <li>Many have proposed this but here is my favourite phrasing: There are probably around 20 million people at any given time who have been born in a wealthy country, have had great education, they are entrepeneurial, and are young. And yet, only about 500 of people at any generation would start a company that is roughly $100M valued or more at some point. Why? What determines the difference between ones who do and ones who don't?</li>
+              <li>Many have proposed this but here is my favourite phrasing: There are probably around 20 million people at any given time who have been born in a wealthy country, have had great education, they are entrepeneurial, and are young. And yet, only about 500 of people at any generation would start a company that is roughly $100M valued or more at some point. Why? What determines the difference between ones who do and ones who don&apos;t?</li>
               <li>Item 3</li>
               <li>Item 4</li>
             </ul>
