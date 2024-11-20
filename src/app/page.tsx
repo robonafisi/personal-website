@@ -36,7 +36,7 @@ export default function Home() {
                   <a href="/principles" className="text-white hover:underline">Principles</a>
                 </li>
                 <li>
-                  <a href="#link3" className="text-white hover:underline">Questions</a>
+                  <a href="/questions" className="text-white hover:underline">Questions</a>
                 </li>
                 <li>
                   <a href="#link4" className="text-white hover:underline">Contact</a>

@@ -1,4 +1,4 @@
-export default function Principles() {
+export default function Contact() {
     return (
       <div className="h-screen w-screen bg-black flex items-center justify-center">
         <main>
