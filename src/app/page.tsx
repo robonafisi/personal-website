@@ -30,7 +30,7 @@ export default function Home() {
             <div className="flex-1 flex flex-col items-start pl-4">
               <ul className="text-white list-disc pl-6">
                 <li>
-                  <a href="#link1" className="text-white hover:underline">Posts</a>
+                  <a href="/posts" className="text-white hover:underline">Posts</a>
                 </li>
                 <li>
                   <a href="/principles" className="text-white hover:underline">Principles</a>
@@ -39,7 +39,7 @@ export default function Home() {
                   <a href="/questions" className="text-white hover:underline">Questions</a>
                 </li>
                 <li>
-                  <a href="#link4" className="text-white hover:underline">Contact</a>
+                  <a href="/contact" className="text-white hover:underline">Contact</a>
                 </li>
               </ul>
             </div>
